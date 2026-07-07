@@ -1,0 +1,9 @@
+langgraph
+langchain
+streamlit
+pandas
+polars
+scikit-learn
+xgboost
+mlflow
+pyarrow
