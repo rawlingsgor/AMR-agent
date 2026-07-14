@@ -1,0 +1,12 @@
+canonical_name,candidate_patterns,required,description
+year,"^year$|collection.*year|sample.*year|date",yes,Specimen or surveillance year
+country,"^country$|country_name|location|nation",yes,Country where isolate or aggregate was reported
+pathogen,"pathogen|organism|species|bacteria|microbe",yes,Bacterial pathogen or organism name
+antibiotic,"antibiotic|antimicrobial|drug|agent",no,Antimicrobial tested
+resistant,"resistant$|resistance|non.?susceptible|r_count|num_r",no,Number resistant/non-susceptible or resistance outcome
+susceptible,"susceptible$|s_count|num_s",no,Number susceptible when available
+intermediate,"intermediate|i_count|num_i",no,Number intermediate when available
+tested,"tested|total|n_tested|isolates|denominator",no,Total tested denominator
+resistance_percent,"percent|percentage|rate|proportion",no,Resistance percentage/proportion if aggregate counts are unavailable
+income_group,"income|world.?bank|lmic|development",no,Income group if supplied in data
+region,"region|continent|who.?region",no,Geographic region if supplied in data
