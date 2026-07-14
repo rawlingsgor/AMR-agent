@@ -1,0 +1,7 @@
+pathogen_group,pattern,notes
+Enterococcus faecium,"enterococcus faecium|e\. faecium",ESKAPE
+Staphylococcus aureus,"staphylococcus aureus|s\. aureus",ESKAPE
+Klebsiella pneumoniae,"klebsiella pneumoniae|k\. pneumoniae",ESKAPE
+Acinetobacter baumannii,"acinetobacter baumannii|a\. baumannii",ESKAPE
+Pseudomonas aeruginosa,"pseudomonas aeruginosa|p\. aeruginosa",ESKAPE
+Enterobacter spp.,"enterobacter|klebsiella aerogenes|e\. cloacae|e\. aerogenes",ESKAPE Enterobacterales member

@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Vivli/ATLAS challenge data and generated EDA outputs
+data/raw/*.csv
+data/processed/*.csv
+reports/figures/*.png
+reports/tables/*.csv
+reports/logs/*.csv
+.Rhistory
+.RData
